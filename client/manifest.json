@@ -1,0 +1,19 @@
+{
+  "name": "Speak Sphere",
+  "short_name": "Speak Sphere",
+  "description": "Practice speaking for 2 minutes a day. Build confidence through short, daily speaking challenges.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbfaf6",
+  "theme_color": "#1d3a8a",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

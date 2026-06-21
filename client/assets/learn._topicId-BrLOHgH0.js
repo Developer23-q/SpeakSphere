@@ -1,0 +1,1 @@
+import{r as e}from"./useRouter-DeDOna9C.js";import{t}from"./learn._topicId-D1xfrNLM.js";var n=e(),r=()=>(0,n.jsx)(t,{});export{r as notFoundComponent};
